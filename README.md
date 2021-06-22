@@ -52,7 +52,7 @@ THEN I find a concise, descriptive title
 
     Modified text to "Horiseon"
 
-    View resulting webpage here: 
-[Resulting Webpage](https://itorres60.github.io/Urban/ "Horiseon")
+View resulting webpage here: 
+[Horiseon Landing Page](https://itorres60.github.io/Urban/ "Horiseon")
 
 

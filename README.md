@@ -29,7 +29,12 @@ THEN I find that the elements follow a logical structure independent of styling 
     Aligned text in "online reuptation management" section to the right
     Centered content section
     Modified css to relocate benefts to lower portion of the page to Allow for navigation optimization.  
-    Aligned benefits items horizontally.
+    Aligned benefits items horizontally. View following screenshots.
+
+![Benefits Screenshot](/assets/images/benefits.png "Web result of benifit mod")
+
+![Benefits Code Screenshot](/assets/images/benefits_code.png "Code to benifit modifications")
+    
 
 WHEN I view the image elements
 THEN I find accessible alt attributes
@@ -47,4 +52,5 @@ THEN I find a concise, descriptive title
 
     Modified text to "Horiseon"
 
-![Web result of code mads](/assets/images/Screen-Shot-2021-06-22-at-8.05.33-AM.png "Web result of benifit mod")
+
+
